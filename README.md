@@ -1,0 +1,1 @@
+Scrie un program care afișează toate numerele palindrom până la o valoare n citită de la tastatură. Scrie codul modularizat, folosind cel puțin o metodă care să determine dacă un număr este palindrom și o altă metodă care afișează toate numerele palindrom până la n. Testează codul în main(…), pentru diverse valori (n). 
